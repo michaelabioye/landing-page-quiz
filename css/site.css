@@ -89,15 +89,15 @@ footer .footer .container .bi {
 }
 
 .hero-title {
-    font-size: 2rem;
-    line-height: 2rem;
+    font-size: 2.4rem;
+    line-height: 2.1rem;
 
 
 
 }
 
 .hero-subtitle {
-    font-size: .85rem;
+    font-size: 1.03rem;
 }
 
 
@@ -111,16 +111,16 @@ footer .footer .container .bi {
     }
 
     .title-container {
-        padding-top: 8rem;
+        padding-top: 4rem;
     }
 
     .hero-title {
-        font-size: 2.5rem;
-        line-height: 2.5rem;
+        font-size: 3rem;
+        line-height: 2.3rem;
     }
 
     .hero-subtitle {
-        font-size: 1.08rem
+        font-size: 1.3rem
     }
 }
 
@@ -130,6 +130,10 @@ footer .footer .container .bi {
     body {
         background-image: url(/img/LandingPage_1200.png);
 
+    }
+
+    .title-container {
+        padding-top: 5rem;
     }
 
     .hero-title {
@@ -155,7 +159,7 @@ footer .footer .container .bi {
     }
 
     .title-container {
-        padding-top: 6rem;
+        padding-top: 7rem;
         padding-left: 4rem;
     }
 
@@ -181,18 +185,19 @@ footer .footer .container .bi {
 
     .hero-title {
         font-size: 4.rem;
-        line-height: 3.4rem;
+        line-height: 2.8rem;
 
 
     }
 
     .hero-subtitle {
-        font-size: 1.7rem;
+        font-size: 1.35rem;
         line-height: 3rem;
     }
 
     .title-container {
-        align-items: center;
+
+        padding-top: 7rem;
 
     }
 
